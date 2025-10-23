@@ -120,7 +120,7 @@ A comprehensive typing practice platform with gamification, real-time multiplaye
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=littlegod20&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlegod20E&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlegod20&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
@@ -140,12 +140,12 @@ A comprehensive typing practice platform with gamification, real-time multiplaye
       <b>Backend Development</b><br/>
       <b>AWS Cloud Computing</b>
     </td>
-    <td align="center" width="50%">
+    <!-- <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Certifications-In_Progress-success?style=for-the-badge" alt="Certs"/>
       <br/>
       <i>Add your certifications here</i><br/>
       <i>e.g., AWS Certified, React Specialist</i>
-    </td>
+    </td> -->
   </tr>
 </table>
 
