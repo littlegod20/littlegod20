@@ -171,7 +171,7 @@ graph LR
 
 <div align="center">
 
-### 🎯 Junior Developer Roles
+### 🎯 Software(Frontend/Backend) Developer Roles
 
 I'm actively seeking opportunities where I can:
 
