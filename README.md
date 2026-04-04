@@ -28,7 +28,7 @@ const developer = {
   mission: "Becoming a better version of myself each day",
   motivation: "Solving complex, brain racking challenges",
   currentlyLearning: ["AWS", "Advanced React Patterns", "System Design"],
-  lookingFor: "Junior Developer Roles & Challenging Projects"
+  lookingFor: "Fullstack Developer Roles & Challenging Projects"
 };
 ```
 
