@@ -154,7 +154,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 **Preferred Contact Methods:**
 - 📧 Email: [theophilusfrimpong17@gmail.com](mailto:theophilusfrimpong17@gmail.com)
 - 💼 LinkedIn: [Send me a message]([your-linkedin-url](https://www.linkedin.com/in/theophilous-frimpong-7844b2236/))
-- 🌐 Portfolio: [View my work](your-portfolio-url)
 
 <br/>
 
