@@ -6,7 +6,6 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theophilous-frimpong-7844b2236/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theophilusfrimpong@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
   
 </div>
 
@@ -75,46 +74,6 @@ const developer = {
 
 <div align="center">
 
-### 🌟 [OG Typer](project-link)
-**Commercial Product | Full-Stack Application**
-
-<img src="project-screenshot-url" alt="Project 1" width="600"/>
-
-A comprehensive typing practice platform with gamification, real-time multiplayer races, personalized drills, and detailed performance analytics.. Built with React, Express, and PostgreSQL.
-
-**Tech Stack:** `React` `Express.js` `MongoDB` `AWS` `PostgresSQL`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](demo-link) [![Code](https://img.shields.io/badge/View-Code-blue?style=for-the-badge)](repo-link)
-
----
-
-### 🌟 [Project Name 2](project-link)
-**Mobile-Responsive Web App**
-
-<img src="project-screenshot-url" alt="Project 2" width="600"/>
-
-[Description of the project and its impact]. Features modern UI/UX and seamless user experience.
-
-**Tech Stack:** `JavaScript` `React` `TailwindCSS` `Node.js`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](demo-link) [![Code](https://img.shields.io/badge/View-Code-blue?style=for-the-badge)](repo-link)
-
----
-
-### 🌟 [Project Name 3](project-link)
-**Cloud-Deployed Solution**
-
-<img src="project-screenshot-url" alt="Project 3" width="600"/>
-
-[Description focusing on the complexity and learning involved]. Deployed on AWS with CI/CD pipeline.
-
-**Tech Stack:** `Node.js` `PostgreSQL` `AWS EC2` `AWS S3`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](demo-link) [![Code](https://img.shields.io/badge/View-Code-blue?style=for-the-badge)](repo-link)
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
