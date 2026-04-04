@@ -15,7 +15,9 @@
 
 > *"Building visually appealing and helpful projects that facilitate living in the 21st century."*
 
-I'm a **Junior Software Developer** and current learner in the **ALX Prodev Program** (Frontend, Backend & AWS Cloud Computing). My journey in tech is driven by a passion for creating solutions that make everyday life easier and more beautiful.
+I'm a **Full Stack Developer** with over 2 years of experience building and shipping production-grade web
+applications in collaborative, remote-first environments. Proven ability to translate business requirements into high- quality front-end and back-end solutions, reduce operational costs through custom tooling, and contribute
+meaningfully across the full development life-cycle.
 
 ```javascript
 const developer = {
