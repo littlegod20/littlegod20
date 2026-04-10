@@ -75,6 +75,8 @@ const developer = {
 ## 💼 Featured Projects
 
 <div align="center">
+   ![OG TYPER](https://og-typer.vercel.app)
+</div>
 
 
 ## 📊 GitHub Stats
