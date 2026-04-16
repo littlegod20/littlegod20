@@ -6,6 +6,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theophilous-frimpong-7844b2236/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theophilusfrimpong@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=portfolio&logoColor=white)](https://my-portfolio-blush-gamma-17.vercel.app/)
   
 </div>
 
