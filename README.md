@@ -18,7 +18,7 @@ I build production-grade systems across web and mobile — from OCR pipelines an
 
 | | | |
 |:---:|:---:|:---:|
-| **3+** | **8+** | **65%** |
+| **4+** | **8+** | **65%** |
 | Years shipping | Production projects | Avg. cost reduction via custom tooling |
 
 ---
