@@ -8,7 +8,7 @@
 
 ---
 
-I build production-grade systems across web and mobile — from OCR pipelines and trading dashboards to SaaS platforms serving West African businesses. Over 3 years shipping real products in remote-first, cross-functional teams.
+I build production-grade systems across web and mobile — from OCR pipelines and trading dashboards to SaaS platforms serving West African businesses. Over 4 years shipping real products in remote-first, cross-functional teams.
 
 > *"Building visually appealing and helpful projects that facilitate living in the 21st century."*
 
