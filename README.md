@@ -39,27 +39,6 @@ OCR-driven lab workflow that converts uploaded reports into structured clinical 
 
 ---
 
-### Delpho / Prism — Crypto & NFT Pre-launch
-Custom Node.js script rendering React components to MP4 server-side — eliminating third-party video tools entirely. Engineered card generation and merge pipelines at scale. Led full front-end development from zero to production ahead of launch deadline.
-
-`Node.js` `React` `FFmpeg` `TypeScript` `NestJS`
-
----
-
-### Trading Dashboard — Analytics Platform
-React/Vite analytics platform with HMAC-signed API integration pulling balance, history, and exposure data. Interactive charts for daily P&L, volatility, drawdown, and Sharpe ratio with date-range filtering and risk metrics.
-
-`React` `Vite` `HMAC Auth` `TypeScript` `Recharts`
-
----
-
-### Arcade Box — Game Library & Admin Platform
-Presigned S3 uploads and CloudFront signed-cookie delivery for protected game asset distribution. Full REST API with JWT/RBAC auth, Swagger docs, PostgreSQL via TypeORM, and processing-status + retry handling.
-
-`Node.js` `Express` `TypeScript` `PostgreSQL` `AWS S3` `CloudFront` `JWT/RBAC`
-
----
-
 ### Internal Tooling — Trakka & Tickr
 Built two internal platforms that replaced paid SaaS tools — Trakka (project management, **60% cost reduction**) and Tickr (timesheet management, **65% cost reduction**). Full-stack features, RESTful API integration, and cross-functional collaboration with UX/UI.
 
